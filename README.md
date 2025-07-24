@@ -4,6 +4,8 @@
 
 It features slice navigation, multi-modality viewing, deep learning-based anomaly segmentation, region-based findings, and PDF report generation.
 
+To have a look at our used Dataset, check out the link: https://www.kaggle.com/datasets/awsaf49/brats2020-training-data/data
+
 ---
 
 ## 🚀 Features
@@ -107,11 +109,11 @@ The frontend will run at: **http://localhost:5173**
 
 ### 3. Extra folders
 
-Follow the link https,,,,, and download the folder named "extract_me_in_backend.rar". Then extract it and make sure its contents are in the /backend/ directory as the name states.
+Follow the link https://drive.google.com/file/d/1R7nny3jZ73KiY4kJPrDG-O6sZaLv04j7/view?usp=sharing and download the folder named "extract_me_in_backend.rar". Then extract it and make sure its contents are in the /backend/ directory as the name states.
 
 ## 🧪 Usage
 
-1. Upload a full brain MRI volume (`.h5`)
+1. Upload a full brain MRI volume (`.h5`), you can check backend/data/combined_volumes for examples of data
 2. Or select a demo volume from the dropdown for instant demo
 3. Navigate through slices and adjust contrast as desired
 4. View AI-detected anomalies and region-based findings

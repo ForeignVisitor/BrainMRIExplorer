@@ -140,5 +140,8 @@ Follow the link https,,,,, and download the folder named "extract_me_in_backend.
 
 ## 📬 Contact
 
-For any questions, please contact **[Souhail Karam]** or **[Chaimaa El Argoubi]**
+Follow this link to get to our project Repo: https://github.com/ForeignVisitor/BrainMRIExplorer
+
+For any questions, please contact **[Souhail Karam]** or **[Chaimaa El Argoubi]**.
+
 📧 [souhailkaram.studies@gmail.com] or [chaimae.elargoubi.studies@gmail.com]

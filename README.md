@@ -144,6 +144,6 @@ Follow the link https://drive.google.com/file/d/1R7nny3jZ73KiY4kJPrDG-O6sZaLv04j
 
 Follow this link to get to our project Repo: https://github.com/ForeignVisitor/BrainMRIExplorer
 
-For any questions, please contact **[Souhail Karam]** or **[Chaimaa El Argoubi]**.
+For any questions, please contact **[Souhail Karam]**
 
-📧 [souhailkaram.studies@gmail.com] or [chaimae.elargoubi.studies@gmail.com]
+📧 [souhailkaram.studies@gmail.com]
